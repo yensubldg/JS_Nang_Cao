@@ -13,7 +13,7 @@
 2. Dùng dấu ; trước IIFE
 3. IIFE là hàm "private"
 
-   error
+error
 
 ```
 (function myFunc() {
@@ -45,3 +45,4 @@ correct
 ```
 
 6. Ví dụ sử dụng IIFE
+   (./js/1.IIFE/IIFE.js)
