@@ -12,6 +12,7 @@
    })()
 2. Dùng dấu ; trước IIFE
 3. IIFE là hàm "private"
+
    error
 
 ```
