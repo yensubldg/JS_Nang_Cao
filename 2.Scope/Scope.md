@@ -1,4 +1,4 @@
-# Scope - Phạm vị
+# Scope - Phạm vi
 
 - Các loại phạm vi:
   - Global - Toàn cầu
@@ -11,4 +11,6 @@
 - Khi nào biến bị xóa khỏi bộ nhớ?
   - Biến toàn cầu: khi thoát chương trình (F5, ...)
   - Biến trong code block & trong hàm: khi hàm, block được thực thi xong
-  - Biến trong hàm (1) được tham chiếu bởi 1 hàm khác (2)
+  - Biến trong hàm (1) được tham chiếu bởi 1 hàm khác (2): ???
+
+---
