@@ -10,5 +10,5 @@
 ## Lưu ý
 
 - `this` trong hàm tạo là đại diện cho đối tượng được tạo
-- `this` trong một hàm [#c5f015](undefined) khi ở [#c5f015](<strict mode>)
-- Các phương thức [#c5f015](<bind(),call(),apply()>) có thể tham chiếu `this` tới đối tượng khác
+- `this` trong một hàm ![#c5f015](undefined) khi ở ![#c5f015](strict mode)
+- Các phương thức ![#c5f015](<bind(),call(),apply()>) có thể tham chiếu `this` tới đối tượng khác
